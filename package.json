@@ -15,5 +15,9 @@
     "ts-loader": "^7.0.3",
     "typescript": "^3.8.3",
     "webpack": "^4.43.0"
+  },
+  "dependencies": {
+    "@types/dat.gui": "^0.7.5",
+    "dat.gui": "^0.7.7"
   }
 }
